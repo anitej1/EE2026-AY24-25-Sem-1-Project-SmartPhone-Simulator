@@ -7,7 +7,7 @@ This group project involved the use of a Basys 3 FPGA board in conjunction with
 
 to create interactive applications which showcase the grasp of content learnt in EE2026. 
 
-Our group decided to settle on an basis abrstraction of a smartphone UI interface which includes a lock screen and a home screen to scroll and choose from among 4 different apps:
+Our group decided to settle on an basic abrstraction of a smartphone UI interface which includes a lock screen and a home screen to scroll and choose from among 4 different apps:
 
 1: Mic Audio Visualizer (Anitej Datta)
 
