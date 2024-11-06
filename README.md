@@ -17,9 +17,7 @@ Our group decided to settle on an basis abrstraction of a smartphone UI interfac
 
 4: Catch the Ball Game (Li Dongwei)
 
-References Used:
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#References Used
 
 FPGADude. (5AD). Digital-Design/FPGA projects/star wars imperial march song at main · FPGADude/digital-design. GitHub. https://github.com/FPGADude/Digital-Design/tree/main/FPGA%20Projects/Star%20Wars%20Imperial%20March%20Song
 
