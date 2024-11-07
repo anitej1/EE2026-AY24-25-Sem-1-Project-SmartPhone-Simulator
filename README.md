@@ -3,7 +3,8 @@
 This group project involved the use of a Basys 3 FPGA board in conjunction with  
 
 (1) Digilent PMOD Oled Display (96 by 64 pixel) 
-(2) Digilent PMOD3 
+
+(2) Digilent PMOD3 MIC
 
 to create interactive applications which showcase the grasp of content learnt in EE2026. 
 
