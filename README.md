@@ -18,7 +18,7 @@ Our group decided to settle on an basic abrstraction of a smartphone UI interfac
 
 4: Catch the Ball Game (Li Dongwei)
 
-![Project_Image](images/project_image.png)
+![Project_Image](images/project_image.jpg)
 
 # References Used
 
