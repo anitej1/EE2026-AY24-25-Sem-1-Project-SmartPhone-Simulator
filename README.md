@@ -3,11 +3,12 @@
 This group project involved the use of a Basys 3 FPGA board in conjunction with  
 
 (1) Digilent PMOD Oled Display (96 by 64 pixel) 
-(2) Digilent PMOD3 
+
+(2) Digilent PMOD3 MIC
 
 to create interactive applications which showcase the grasp of content learnt in EE2026. 
 
-Our group decided to settle on an basis abrstraction of a smartphone UI interface which includes a lock screen and a home screen to scroll and choose from among 4 different apps:
+Our group decided to settle on an basic abrstraction of a smartphone UI interface which includes a lock screen and a home screen to scroll and choose from among 4 different apps:
 
 1: Mic Audio Visualizer (Anitej Datta)
 
@@ -16,6 +17,8 @@ Our group decided to settle on an basis abrstraction of a smartphone UI interfac
 3: TicTacToe Game (Glenn See) 
 
 4: Catch the Ball Game (Li Dongwei)
+
+![Project_Image](https://drive.google.com/file/d/1iVK-QXP9GR9Wnum7b3L9shnWHEVMHDfB/view?usp=sharing)
 
 # References Used
 
