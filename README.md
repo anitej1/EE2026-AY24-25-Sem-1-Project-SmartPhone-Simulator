@@ -46,8 +46,6 @@ Website used for drawing images in 96 by 64 pixel format.
 
 Green, W. (2021, July 20). Initialize memory in Verilog. Project F. https://projectf.io/posts/initialize-memory-in-verilog/ 
 
-https://projectf.io/posts/initialize-memory-in-verilog/ 
-
 To import image files converted to .mem based files inside Verilog.
 
 https://stackoverflow.com/questions/55971531/how-do-i-convert-jpg-or-png-files-to-csv-files
